@@ -4,4 +4,7 @@ I created a landing page of a website using html,css
 DEMO:https://pritybanerjee.netlify.app/
 
 
-#creating a simple calculator-txon(task-2)
+# Creating a Simple Calculator-txon(task-2)
+
+https://calculator-txon.netlify.app/
+
