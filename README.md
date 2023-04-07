@@ -8,6 +8,6 @@ DEMO:https://pritybanerjee.netlify.app/
 
 https://calculator-txon.netlify.app/
 
-#Creating a to-do List(task-3)
+# Creating a to-do List(task-3)
 
 https://majestic-crepe-0c425d.netlify.app/
